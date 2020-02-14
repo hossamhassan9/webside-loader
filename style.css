@@ -73,7 +73,8 @@ html {
   margin: 8px;
   box-sizing: border-box;
   border: 32px solid #fcf;
-  border-color: rgb(219, 9, 219) transparent rgb(19, 1, 19) transparent;
+  border-color: rgba(9, 30, 219, 0.555) transparent rgba(85, 4, 85, 0.582)
+    transparent;
   animation: lds-hourglass 1.2s infinite;
 }
 @keyframes lds-hourglass {
